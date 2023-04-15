@@ -1,4 +1,4 @@
-<h1 align="center"><b>¡Hola!, soy drgato 🐈</b></h1>
+<h1 align="center"><b>¡Hola!, soy Fran/Noe 🐈</b></h1>
 </p>
 
 ## Sobre mí
