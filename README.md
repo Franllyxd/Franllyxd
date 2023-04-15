@@ -7,7 +7,7 @@
 
 - 🚀 Tengo 20 años y soy de Perú
 - 🌛 Trabajo en [LunarBot](https://dsc.gg/lunarbotxd), un bot escrito en TypeScript
-- 🪐 Le sé al HTML, CSS y JS
+- 🪐 Le sé al HTML, CSS y JS y DJS And Vue.js y Mas!
 - 📺 Hago videos para YouTube
 - 🛖 Tengo un [servidor de Discord](https://discord.gg/yUbqxzpU) por si les interesa entrar :)
 - ⚛️ Intenté aprender React pero no pude xd
