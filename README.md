@@ -5,11 +5,11 @@
 
 <img src="https://avatars.githubusercontent.com/u/43690887?s=200&u=059915dea147dfda41abb3a2064c13305634bc62&v=4" align="right" alt="discord pfp"/>
 
-- 🚀 Tengo 14 años y soy de Perú
+- 🚀 Tengo 20 años y soy de Perú
 - 🌛 Trabajo en [LunarBot](https://dsc.gg/lunarbotxd), un bot escrito en TypeScript
 - 🪐 Le sé al HTML, CSS y JS
 - 📺 Hago videos para YouTube
-- 🛖 Tengo un [servidor de Discord](https://drgato.ml/discord) por si les interesa entrar :)
+- 🛖 Tengo un [servidor de Discord](https://discord.gg/yUbqxzpU) por si les interesa entrar :)
 - ⚛️ Intenté aprender React pero no pude xd
 - 🙊 Hablo más por chat que en IRL
 - 💎 Me quiero comprar un dominio .pe
@@ -28,14 +28,6 @@
 <img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" /><img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />  
 <div/>
   
-## Videos
-
-- [Como hostear tu bot de Discord en Heroku sin GitHub (v2)](https://www.youtube.com/watch?v=QRm-FarG3SI)
-- [#9 Copias de seguridad | djs v13 + TypeScript](https://www.youtube.com/watch?v=wBToMz3nueY)
-- [#8 Sistema de conteo | djs v13 + TypeScript](https://www.youtube.com/watch?v=UPWtCi99AvA)
-- [Command + Event Handler para Discord.js v13 en JAVASCRIPT](https://www.youtube.com/watch?v=C5hASKhdLIE)
-- [#7 Modals/formularios en Discord | djs v13 + TypeScript](https://www.youtube.com/watch?v=NGnKMoz5nmU)
-- [#6 Bienvenidas multiservidor | djs v13 + TypeScript](https://www.youtube.com/watch?v=TE_08wx_wx8)
 
 <!-- ### Hi there 👋 -->
 
